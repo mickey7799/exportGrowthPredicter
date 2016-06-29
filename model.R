@@ -2,7 +2,7 @@ library(readr)
 library(readxl)
 library(tidyr)
 library(dplyr)
-#
+#test
 df <- read_excel("TW_EX.xlsx")[,c(1,7:21)]
 names(df) <- c("country","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015")
 df$country <- as.factor(df$country)
