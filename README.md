@@ -6,6 +6,7 @@ Using economic variables such as:
 - Population
 - inflation
 - FDI
+
 and so on to predict the future export growth rate of Taiwan to different markets 
 
 The models used are:
